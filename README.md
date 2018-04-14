@@ -1,1 +1,3 @@
-# PremierLeagueDatabaseGUI
+Premier League Database
+
+Clubs to have featured in the Premier League’s 25-year history and reflected within the app are: Arsenal, Aston Villa, Barnsley, Birmingham City, Blackburn Rovers, Blackpool, Bolton Wanderers, AFC Bournemouth, Bradford City, Burnley, Cardiff City, Charlton Athletic, Chelsea, Coventry City, Crystal Palace, Derby County, Everton, Fulham, Hull City, Ipswich Town, Leeds United, Leicester City, Liverpool, Manchester City, Manchester United, Middlesbrough, Newcastle United, Norwich City, Nottingham Forest, Oldham Athletic, Portsmouth, Queens Park Rangers, Reading, Sheffield United, Sheffield Wednesday, Southampton, Stoke City, Sunderland, Swansea City, Swindon Town, Tottenham Hotspur, Watford, West Bromwich Albion, West Ham United, Wigan Athletic, Wimbledon, Wolverhampton Wanderers.
